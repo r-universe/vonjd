@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "OneR"]
+	path = OneR
+	url = https://github.com/vonjd/oner
+	shallow = true
+	registered = true
